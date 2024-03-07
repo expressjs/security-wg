@@ -27,7 +27,7 @@ We are currently defining the Initiatives for 2024, [feel free to participate](h
 
 ## Members
 
-The Security Working Group is composed by two groups of members: the Security Triage Team and the Regular members. The regular members are responsible for the public facing activity of the group, while the Security Triage Team is responsible for the security triage process.
+The Security Working Group is composed of two groups of members: the Security Triage Team and the Regular members. The regular members are responsible for the public facing activity of the group, while the Security Triage Team is responsible for the security triage process.
 
 ### Security Triage Team
 
