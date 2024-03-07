@@ -17,7 +17,7 @@ The group is composed by two groups of members: the Security Triage Team and the
 
 To join the Security Working Group, you need to:
 - Join the [OpenJS Foundation Slack](https://openjsf.org/collaboration)
-- Join the channel `#express-security` in the [OpenJS Foundation Slack](https://openjsf.org/collaboration)
+- Join the channel `#express` in the [OpenJS Foundation Slack](https://openjsf.org/collaboration)
 - Contribute to the group activities
 - Discuss with the existing members about your interest in joining the Security Triage Team, so they can evaluate your participation and invite you to join the team.
 
