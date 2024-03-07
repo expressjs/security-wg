@@ -26,7 +26,7 @@ To join the Security Working Group, you need to:
 
 By default, all the Technical Committee (TC) members, and repo captains are part of the Security Triage Team. Also, the Security Triage Team can invite other members to join the team based on their participation and contributions to the group activities.
 
-It is expected that the Security Triage Team members have a good understanding of the Express.js ecosystem and the security practices, and are willing to contribute to the security of the Express.js ecosystem in a long term.
+It is expected that the Security Triage Team members have a good understanding of the Express ecosystem and the security practices, and are willing to contribute to the security of the Express ecosystem in a long term.
 
 This group is responsible for the security triage process, and the members of this group are expected to be available to support the TC team on security triage when is requested. The Security Triage Team is responsible for managing incoming security reports, and responsible also to help developing patches or security releases.
 
