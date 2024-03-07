@@ -11,7 +11,7 @@ The Security Working Group manages all aspects and processes linked to Express.j
 - Review and recommend processes for handling of security reports.
 - Promote improvement of security practices within the Express.js ecosystem (For example: [OSSF Scorecard](https://github.com/expressjs/discussions/issues/162), threat model, etc..)
 - Recommend security improvements for the project and the packages in scope
-- Support the TC team on security triage when is requested
+- Support the TC team on security triage as needed
 - Support initiatives from the [OpenJS Foundation Security Collab Space](https://github.com/openjs-foundation/security-collab-space).
 - Support initiatives from the OpenSSF [Best Practices for Open Source Developers Working Group](https://github.com/ossf/wg-best-practices-os-developers).
 
