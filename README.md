@@ -2,7 +2,7 @@
 
 ## Charter
 
-The Security Working Group manages all aspects and processes linked to Express.js security, and is responsible for managing incoming security reports, and responsible also to prepare patches or releases. The nature of this task is sensitive, so only the Security triage team, Repo Captains and TC members will be involved on it.
+The Security Working Group manages all aspects and processes linked to Express.js security, and is responsible for managing incoming security reports, and responsible also to prepare patches or releases. The nature of this task is sensitive, so only the Security triage team, Repo Captains and TC members will be involved in it.
 
 ### Responsibilities
 
