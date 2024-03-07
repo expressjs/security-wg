@@ -4,7 +4,8 @@
 
 The Security Working Group manages all aspects and processes linked to Express.js security, and is responsible for managing incoming security reports, and responsible also to prepare patches or releases. The nature of this task is sensitive, so only the Security triage team, Repo Captains and TC members will be involved on it.
 
-**Responsibilities include**
+### Responsibilities
+
 - Define the Security triage role
 - Define and maintain security policies and procedures for the project and the packages in scope
 - Provide guidance to the ecosystem on how to build more secure middleware
