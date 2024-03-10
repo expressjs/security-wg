@@ -53,7 +53,7 @@ The Security Working Group is composed of two groups of members: the Security Tr
 
 ## Meetings
 
-The Security Working Group meets every two weeks. Meetings are held on Zoom and are recorded or directly streamed to Youtube. The meeting is open to the public. The agenda and meeting notes are published in this repository.
+The Security Working Group meets every two weeks. Meetings are held on Zoom and are recorded or directly streamed to Youtube. The meeting is open to the public. The agenda and meeting notes are published in this repository. The calendar entries are available in the [OpenJS Foundation calendar](https://openjsf.org/collaboration).
 
 ## Offline Discussions
 
