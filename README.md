@@ -2,7 +2,7 @@
 
 ## Charter
 
-The Security Working Group manages all aspects and processes linked to Express.js security, and is responsible for managing incoming security reports, and responsible also to prepare patches or releases. The nature of this task is sensitive, so only the Security triage team, Repo Captains and TC members will be involved in it.
+The Security Working Group manages all aspects and processes linked to the Express Project's security, and is responsible for managing incoming security reports, and responsible also to prepare patches or releases. The nature of this task is sensitive, so only the Security triage team, Repo Captains and TC members will be involved in it.
 
 ### Responsibilities
 
@@ -10,7 +10,7 @@ The Security Working Group manages all aspects and processes linked to Express.j
 - Define and maintain security policies and procedures for the project and the packages in scope
 - Provide guidance to the ecosystem on how to build more secure middleware
 - Review and recommend processes for handling of security reports.
-- Promote improvement of security practices within the Express.js ecosystem (For example: [OSSF Scorecard](https://github.com/expressjs/discussions/issues/162), threat model, etc..)
+- Promote improvement of security practices within the Express project's ecosystem (For example: [OSSF Scorecard](https://github.com/expressjs/discussions/issues/162), threat model, etc..)
 - Recommend security improvements for the project and the packages in scope
 - Support the TC team on security triage as needed
 - Support initiatives from the [OpenJS Foundation Security Collab Space](https://github.com/openjs-foundation/security-collab-space).
@@ -61,4 +61,4 @@ The Security Working Group uses the [GitHub issues](https://github.com/expressjs
 
 ## Code of Conduct
 
-The  [Express.js CoC](https://github.com/expressjs/express/blob/master/Code-Of-Conduct.md) applies to this repo.
+The [Express Project's CoC](https://github.com/expressjs/express/blob/master/Code-Of-Conduct.md) applies to this repo.
