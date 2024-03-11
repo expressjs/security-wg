@@ -18,7 +18,7 @@
 | https://github.com/jshttp/content-type          | 29.1                          | 1y               | 126       | 2                            |
 | https://github.com/jshttp/vary                  | 28.8                          | 6y               | 59        | 2                            |
 | https://github.com/jshttp/methods               | 28.6                          | 8y               | 177       | 2                            |
-| https://github.com/expressjs/express            | 28.23                         | 1y               | 62900     | 2                            |
+| https://github.com/expressjs/express            | 28.23                         | 1y               | 62900     | 1                            |
 | https://github.com/jshttp/fresh                 | 28.2                          | 6y               | 156       | 2                            |
 | https://github.com/pillarjs/encodeurl           | 28.2                          | 6y               | 35        | 2                            |
 | https://github.com/jshttp/etag                  | 28.1                          | 6y               | 247       | 2                            |
