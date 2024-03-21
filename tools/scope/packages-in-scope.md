@@ -1,151 +1,108 @@
 ## expressjs
 
-| **Name**           | **Github Repository**                           | **Download / week (million)** | **Last publish** | **Stars** | **Scorecard priority block** |
-|--------------------|-------------------------------------------------|-------------------------------|------------------|-----------|------------------------------|
-| body-parser        | https://github.com/expressjs/body-parser        | 37.04                         | 1y               | 5400      | 1                            |
-| serve-static       | https://github.com/expressjs/serve-static       | 29.6                          | 2y               | 1400      | 2                            |
-| express            | https://github.com/expressjs/express            | 28.23                         | 1y               | 62900     | 1                            |
-| compression        | https://github.com/expressjs/compression        | 18.5                          | 5y               | 2700      | 3                            |
-| serve-index        | https://github.com/expressjs/serve-index        | 11.4                          | 6y               | 434       | 3                            |
-| cors               | https://github.com/expressjs/cors               | 10.9                          | 5y               | 5900      | 3                            |
-| multer             | https://github.com/expressjs/multer             | 4.4                           | 2y               | 11200     | 4                            |
-| morgan             | https://github.com/expressjs/morgan             | 4.03                          | 4y               | 7700      | 4                            |
-| serve-favicon      | https://github.com/expressjs/serve-favicon      | 3.08                          | 6y               | 618       | 4                            |
-| cookie-parser      | https://github.com/expressjs/cookie-parser      | 2.9                           | 2y               | 225       | 4                            |
-| session            | https://github.com/expressjs/session            | 2.15                          | 4d               | 6100      | 4                            |
-| errorhandler       | https://github.com/expressjs/errorhandler       | 1.9                           | 5y               | 421       | 4                            |
-| method-override    | https://github.com/expressjs/method-override    | 0.78                          | 6y               | 609       | 4                            |
-| csurf              | https://github.com/expressjs/csurf              | 0.39                          | 4y               | 2300      | 5                            |
-| response-time      | https://github.com/expressjs/response-time      | 0.3                           | 7y               | 457       | 5                            |
-| timeout            | https://github.com/expressjs/timeout            | 0.2                           | 7y               | 312       | 5                            |
-| cookie-session     | https://github.com/expressjs/cookie-session     | 0.19                          | 8d               | 1100      | 5                            |
-| vhost              | https://github.com/expressjs/vhost              | 0.1                           | 8y               | 757       | 5                            |
-| connect-multiparty | https://github.com/expressjs/connect-multiparty | 0.06                          | 5y               | 347       | 5                            |
-| generator          | https://github.com/expressjs/generator          | 0.008                         | 5y               | 1800      | 5                            |
-| express-paginate   | https://github.com/expressjs/express-paginate   | 0.004                         | 4y               | 419       | 0 (to be deprecated)         |
-| express-expose     | https://github.com/expressjs/express-expose     | 0.002                         | 9y               | 299       | 0 (to be deprecated)         |
-| api-error-handler  | https://github.com/expressjs/api-error-handler  | 0.001                         | 9y               | 100       | 0 (to be deprecated)         |
-| flash              | https://github.com/expressjs/flash              | 0.001                         | 9y               | 92        | 0 (to be deprecated)         |
-
-
-### Missing repositories in Security WG scope:
-
-| **Name**           | **Github Repository**                            |
-|--------------------|------------------------------------------------- |
-| .github            | https://github.com/pillarjs/.github              |
-| Badgeboard         | https://github.com/expressjs/badgeboard          |
-| basic-auth-connect | https://github.com/expressjs/basic-auth-connect  |
-| connect-markdown   | https://github.com/expressjs/connect-markdown    |
-| discussion         | https://github.com/expressjs/discussions         |
-| domain-middleware  | https://github.com/expressjs/domain-middleware   |
-| examples           | https://github.com/expressjs/examples            |
-| express-namespace  | https://github.com/expressjs/express-namespace   |
-| expressjs.com      | https://github.com/expressjs/expressjs.com       |
-| express.github.io  | https://github.com/expressjs/expressjs.github.io |
-| method-override    | https://github.com/expressjs/method-override     |
-| mime-extended      | https://github.com/expressjs/mime-extended       |
-| restfull-router    | https://github.com/expressjs/restful-router      |
-| routification      | https://github.com/expressjs/routification       |
-| security           | https://github.com/expressjs/security            |
-| serve-favicon      | https://github.com/expressjs/serve-favicon       |
-| set-type           | https://github.com/expressjs/set-type            |
-| statusboard        | https://github.com/expressjs/statusboard         |
-| vhostess           | https://github.com/expressjs/vhostess            |
-
-
-### Missing repositories in [Cleanup org PR](https://github.com/expressjs/Admin/pull/1):
-
-| **Name**           | **Github Repository**                            |
-|--------------------|------------------------------------------------- |
-| csurf              | https://github.com/expressjs/csurf               |
-| api-error-handler  | https://github.com/expressjs/api-error-handler   |
-
-
-## pillarjs
-
-| **Name**       | **Github Repository**                           | **Download / week (million)** | **Last publish** | **Stars** | **Scorecard priority block** |
-|----------------|-------------------------------------------------|-------------------------------|------------------|-----------|------------------------------|
-| path-to-regexp | https://github.com/pillarjs/path-to-regexp      | 48.6                          | 2y               | 7800      | 1                            |
-| finalhandler   | https://github.com/pillarjs/finalhandler        | 32.75                         | 2y               | 212       | 1                            |
-| send           | https://github.com/pillarjs/send                | 30.4                          | 2y               | 781       | 2                            |
-| encodeurl      | https://github.com/pillarjs/encodeurl           | 28.2                          | 6y               | 35        | 2                            |
-| parseurl       | https://github.com/pillarjs/parseurl            | 27.1                          | 5y               | 189       | 3                            |
-| cookies        | https://github.com/pillarjs/cookies             | 2.01                          | 1m               | 1300      | 4                            |
-| resolve-path   | https://github.com/pillarjs/resolve-path        | 0.8                           | 6y               | 32        | 4                            |
-| router         | https://github.com/pillarjs/router              | 0.57                          | 1y               | 399       | 4                            |
-| csrf           | https://github.com/pillarjs/csrf                | 0.52                          | 5y               | 289       | 5                            |
-| multiparty     | https://github.com/pillarjs/multiparty          | 0.45                          | 2y               | 1300      | 5                            |
-| path-match     | https://github.com/pillarjs/path-match          | 0.37                          | 8y               | 139       | 5                            |
-| hbs            | https://github.com/pillarjs/hbs                 | 0.16                          | 2y               | 1600      | 5                            |
-| routington     | https://github.com/pillarjs/routington          | 0.001                         | 9y               | 185       | 0 (to be deprecated)         |
-| templation     | https://github.com/pillarjs/templation          | 0                             | 9y               | 13        | 0 (to be deprecated)         |
-| ssl-redirect   | https://github.com/pillarjs/ssl-redirect        | 0                             | 9y               | 11        | 0 (to be deprecated)         |
-| qs-strict      | https://github.com/pillarjs/qs-strict           | 0                             | 9y               | 4         | 0 (to be deprecated)         |
-| extend-proto   | https://github.com/pillarjs/extend-proto        | 0                             | 8y               | 3         | 0 (to be deprecated)         |
-
-###  Missing repositories in Security WG scope:
-
-| **Name**           | **Github Repository**                            |
-|--------------------|------------------------------------------------- |
-| .github            | https://github.com/pillarjs/.github              |
-| discussion         | https://github.com/pillarjs/discussions          |
-| extended-proto     | https://github.com/pillarjs/extend-proto         |
-| node-frameworks    | https://github.com/pillarjs/node-frameworks      |
-| pillarjs.github.io | https://github.com/pillarjs/pillarjs.github.io   |
-| request            | https://github.com/pillarjs/request              |
-| understanding-csrf | https://github.com/pillarjs/understanding-csrf   |
-| view               | https://github.com/pillarjs/views                |
-
-### Missing repositories in [Cleanup org PR](https://github.com/expressjs/Admin/pull/1):
-
-| **Name**           | **Github Repository**                            |
-|--------------------|------------------------------------------------- |
-| path-match         | https://github.com/pillarjs/path-match           |
+| Name                | Github Repository                                | npm                                               | Scorecard priority block | Notes                          |
+|---------------------|--------------------------------------------------|---------------------------------------------------|--------------------------|--------------------------------|
+| api-error-handler   | https://github.com/expressjs/api-error-handler   | https://www.npmjs.com/package/api-error-handler   | 6                        | Seems like we can deprecate it |
+| badgeboard          | https://github.com/expressjs/badgeboard          |                                                   | N/A                      | Documentation repo             |
+| basic-auth-connect  | https://github.com/expressjs/basic-auth-connect  | https://www.npmjs.com/package/basic-auth-connect  | 5                        |                                |
+| body-parser         | https://github.com/expressjs/body-parser         | https://www.npmjs.com/package/body-parser         | 1                        |                                |
+| compression         | https://github.com/expressjs/compression         | https://www.npmjs.com/package/compression         | 3                        |                                |
+| connect-markdown    | https://github.com/expressjs/connect-markdown    | https://www.npmjs.com/package/connect-markdown    | 6                        |                                |
+| connect-multiparty  | https://github.com/expressjs/connect-multiparty  | https://www.npmjs.com/package/connect-multiparty  | 6                        |                                |
+| cookie-parser       | https://github.com/expressjs/cookie-parser       | https://www.npmjs.com/package/cookie-parser       | 4                        |                                |
+| cookie-session      | https://github.com/expressjs/cookie-session      | https://www.npmjs.com/package/cookie-session      | 6                        |                                |
+| cors                | https://github.com/expressjs/cors                | https://www.npmjs.com/package/cors                | 4                        |                                |
+| csurf               | https://github.com/expressjs/csurf               | https://www.npmjs.com/package/csurf               | 5                        |                                |
+| discussions         | https://github.com/expressjs/discussions         |                                                   | N/A                      | Documentation repo             |
+| domain-middleware   | https://github.com/expressjs/domain-middleware   | https://www.npmjs.com/package/domain-middleware   | 6                        |                                |
+| errorhandler        | https://github.com/expressjs/errorhandler        | https://www.npmjs.com/package/errorhandler        | 5                        |                                |
+| examples            | https://github.com/expressjs/examples            |                                                   | N/A                      | Empty repo                     |
+| express             | https://github.com/expressjs/express             | https://www.npmjs.com/package/express             | 1                        |                                |
+| express-expose      | https://github.com/expressjs/express-expose      | https://www.npmjs.com/package/express-expose      | 6                        | Seems like we can deprecate it |
+| express-namespace   | https://github.com/expressjs/express-namespace   |                                                   | N/A                      | Dead repo                      |
+| express-paginate    | https://github.com/expressjs/express-paginate    | https://www.npmjs.com/package/express-paginate    | 6                        | Seems like we can deprecate it |
+| expressjs.com       | https://github.com/expressjs/expressjs.com       |                                                   | N/A                      | Website repo                   |
+| expressjs.github.io | https://github.com/expressjs/expressjs.github.io |                                                   | N/A                      | Documentation repo             |
+| flash               | https://github.com/expressjs/flash               | https://www.npmjs.com/package/flash               | 6                        | Seems like we can deprecate it |
+| generator           | https://github.com/expressjs/generator           | https://www.npmjs.com/package/express-generator   | 6                        |                                |
+| method-override     | https://github.com/expressjs/method-override     | https://www.npmjs.com/package/method-override     | 5                        |                                |
+| method-override     | https://github.com/expressjs/method-override     | https://www.npmjs.com/package/method-override     | 5                        |                                |
+| mime-extended       | https://github.com/expressjs/mime-extended       |                                                   | 6                        | Seems like we can deprecate it |
+| morgan              | https://github.com/expressjs/morgan              | https://www.npmjs.com/package/morgan              | 4                        |                                |
+| multer              | https://github.com/expressjs/multer              | https://www.npmjs.com/package/multer              | 4                        |                                |
+| response-time       | https://github.com/expressjs/response-time       | https://www.npmjs.com/package/response-time       | 6                        |                                |
+| restful-router      | https://github.com/expressjs/restful-router      | https://www.npmjs.com/package/restful-router      | 6                        |                                |
+| routification       | https://github.com/expressjs/routification       | https://www.npmjs.com/package/routification       | 6                        |                                |
+| security            | https://github.com/expressjs/security            |                                                   | N/A                      | Empty repo                     |
+| serve-favicon       | https://github.com/expressjs/serve-favicon       | https://www.npmjs.com/package/serve-favicon       | 4                        |                                |
+| serve-favicon       | https://github.com/expressjs/serve-favicon       | https://www.npmjs.com/package/serve-favicon       | 4                        |                                |
+| serve-index         | https://github.com/expressjs/serve-index         | https://www.npmjs.com/package/serve-index         | 4                        |                                |
+| serve-static        | https://github.com/expressjs/serve-static        | https://www.npmjs.com/package/serve-static        | 2                        |                                |
+| session             | https://github.com/expressjs/session             | https://www.npmjs.com/package/express-session     | 4                        |                                |
+| set-type            | https://github.com/expressjs/set-type            |                                                   | 6                        | Seems like we can deprecate it |
+| statusboard         | https://github.com/expressjs/statusboard         |                                                   | N/A                      | Documentation repo             |
+| timeout             | https://github.com/expressjs/timeout             | https://www.npmjs.com/package/connect-timeout     | 6                        |                                |
+| vhost               | https://github.com/expressjs/vhost               | https://www.npmjs.com/package/vhost               | 6                        |                                |
+| vhostess            | https://github.com/expressjs/vhostess            | https://www.npmjs.com/package/vhostess            | 6                        |                                |
 
 
 ## jshttp
 
-| **Name**            | **Github Repository**                           | **Download / week (million)** | **Last publish** | **Stars** | **Scorecard priority block** |
-|---------------------|-------------------------------------------------|-------------------------------|------------------|-----------|------------------------------|
-| http-errors         | https://github.com/jshttp/http-errors           | 53.3                          | 2y               | 1500      | 1                            |
-| statuses            | https://github.com/jshttp/statuses              | 52.4                          | 3y               | 261       | 1                            |
-| mime-types          | https://github.com/jshttp/mime-types            | 49.1                          | 2y               | 1300      | 1                            |
-| mime-db             | https://github.com/jshttp/mime-db               | 48.3                          | 2y               | 1000      | 1                            |
-| cookie              | https://github.com/jshttp/cookie                | 47.2                          | 3m               | 1200      | 1                            |
-| on-finished         | https://github.com/jshttp/on-finished           | 38.7                          | 2y               | 385       | 1                            |
-| negotiator          | https://github.com/jshttp/negotiator            | 32.3                          | 2y               | 277       | 1                            |
-| content-disposition | https://github.com/jshttp/content-disposition   | 30.8                          | 2y               | 217       | 2                            |
-| accepts             | https://github.com/jshttp/accepts               | 30.2                          | 2y               | 251       | 2                            |
-| range-parser        | https://github.com/jshttp/range-parser          | 29.7                          | 5y               | 91        | 2                            |
-| content-type        | https://github.com/jshttp/content-type          | 29.1                          | 1y               | 126       | 2                            |
-| vary                | https://github.com/jshttp/vary                  | 28.8                          | 6y               | 59        | 2                            |
-| methods             | https://github.com/jshttp/methods               | 28.6                          | 8y               | 177       | 2                            |
-| fresh               | https://github.com/jshttp/fresh                 | 28.2                          | 6y               | 156       | 2                            |
-| etag                | https://github.com/jshttp/etag                  | 28.1                          | 6y               | 247       | 2                            |
-| media-typer         | https://github.com/jshttp/media-typer           | 27.8                          | 5y               | 55        | 3                            |
-| type-is             | https://github.com/jshttp/type-is               | 27.2                          | 5y               | 225       | 3                            |
-| forwarded           | https://github.com/jshttp/forwarded             | 26.8                          | 3y               | 53        | 3                            |
-| proxy-addr          | https://github.com/jshttp/proxy-addr            | 25.9                          | 3y               | 129       | 3                            |
-| on-headers          | https://github.com/jshttp/on-headers            | 20.4                          | 5y               | 150       | 3                            |
-| compressible        | https://github.com/jshttp/compressible          | 19.3                          | 4y               | 96        | 3                            |
-| basic-auth          | https://github.com/jshttp/basic-auth            | 6.5                           | 5y               | 700       | 3                            |
-| http-assert         | https://github.com/jshttp/http-assert           | 1.3                           | 2y               | 148       | 4                            |
-| spdy-push           | https://github.com/jshttp/spdy-push             | 0                             | 8y               | 29        | 0 (to be deprecated)         |
-| http-utils          | https://github.com/jshttp/http-utils            | 0                             | 9y               | 14        | 0 (to be deprecated)         |
+| .github             | https://github.com/jshttp/.github                |                                                   | N/A                      | Documentation repo             |
+| accepts             | https://github.com/jshttp/accepts                | https://www.npmjs.com/package/accepts             | 2                        |                                |
+| basic-auth          | https://github.com/jshttp/basic-auth             | https://www.npmjs.com/package/basic-auth          | 4                        |                                |
+| compressible        | https://github.com/jshttp/compressible           | https://www.npmjs.com/package/compressible        | 3                        |                                |
+| content-disposition | https://github.com/jshttp/content-disposition    | https://www.npmjs.com/package/content-disposition | 2                        |                                |
+| content-type        | https://github.com/jshttp/content-type           | https://www.npmjs.com/package/content-type        | 2                        |                                |
+| cookie              | https://github.com/jshttp/cookie                 | https://www.npmjs.com/package/cookie              | 1                        |                                |
+| etag                | https://github.com/jshttp/etag                   | https://www.npmjs.com/package/etag                | 3                        |                                |
+| forwarded           | https://github.com/jshttp/forwarded              | https://www.npmjs.com/package/forwarded           | 3                        |                                |
+| fresh               | https://github.com/jshttp/fresh                  | https://www.npmjs.com/package/fresh               | 3                        |                                |
+| http-assert         | https://github.com/jshttp/http-assert            | https://www.npmjs.com/package/http-assert         | 5                        |                                |
+| http-errors         | https://github.com/jshttp/http-errors            | https://www.npmjs.com/package/http-errors         | 1                        |                                |
+| http-push           | https://github.com/jshttp/http-push              |                                                   | N/A                      | Placeholder repo               |
+| http-utils          | https://github.com/jshttp/http-utils             | https://www.npmjs.com/package/http-utils          | 6                        | Seems like we can deprecate it |
+| jshttp.github.io    | https://github.com/jshttp/jshttp.github.io       |                                                   | N/A                      | Documentation repo             |
+| media-typer         | https://github.com/jshttp/media-typer            | https://www.npmjs.com/package/media-typer         | 3                        |                                |
+| methods             | https://github.com/jshttp/methods                | https://www.npmjs.com/package/methods             | 2                        |                                |
+| mime-db             | https://github.com/jshttp/mime-db                | https://www.npmjs.com/package/mime-db             | 1                        |                                |
+| mime-types          | https://github.com/jshttp/mime-types             | https://www.npmjs.com/package/mime-types          | 1                        |                                |
+| negotiator          | https://github.com/jshttp/negotiator             | https://www.npmjs.com/package/negotiator          | 2                        |                                |
+| on-finished         | https://github.com/jshttp/on-finished            | https://www.npmjs.com/package/on-finished         | 1                        |                                |
+| on-headers          | https://github.com/jshttp/on-headers             | https://www.npmjs.com/package/on-headers          | 3                        |                                |
+| proxy-addr          | https://github.com/jshttp/proxy-addr             | https://www.npmjs.com/package/proxy-addr          | 3                        |                                |
+| range-parser        | https://github.com/jshttp/range-parser           | https://www.npmjs.com/package/range-parser        | 2                        |                                |
+| spdy-push           | https://github.com/jshttp/spdy-push              | https://www.npmjs.com/package/spdy-push           | 6                        | Seems like we can deprecate it |
+| statuses            | https://github.com/jshttp/statuses               | https://www.npmjs.com/package/statuses            | 1                        |                                |
+| style-guide         | https://github.com/jshttp/style-guide            |                                                   | N/A                      | Documentation repo             |
+| type-is             | https://github.com/jshttp/type-is                | https://www.npmjs.com/package/type-is             | 3                        |                                |
+| vary                | https://github.com/jshttp/vary                   | https://www.npmjs.com/package/vary                | 2                        |                                |
 
 
-### Missing repositories in Security WG scope:
+## pillarjs
 
-| **Name**           | **Github Repository**                            |
-|--------------------|------------------------------------------------- |
-| .github            | https://github.com/jshttp/.github                |
-| http-push          | https://github.com/jshttp/http-push              |
-| jshttp.github.io   | https://github.com/jshttp/jshttp.github.io       |
-| style-guide        | https://github.com/jshttp/style-guide            |
-
-
-### Missing repositories in [Cleanup org PR](https://github.com/expressjs/Admin/pull/1):
-
-| **Name**           | **Github Repository**                            |
-|--------------------|------------------------------------------------- |
-|                    |                                                  |
+| .github             | https://github.com/pillarjs/.github              |                                                   | N/A                      | Health files repo              |
+| cookies             | https://github.com/pillarjs/cookies              | https://www.npmjs.com/package/cookies             | 4                        |                                |
+| csrf                | https://github.com/pillarjs/csrf                 | https://www.npmjs.com/package/csrf                | 5                        |                                |
+| discussions         | https://github.com/pillarjs/discussions          |                                                   | N/A                      | Empty repo                     |
+| encodeurl           | https://github.com/pillarjs/encodeurl            | https://www.npmjs.com/package/encodeurl           | 2                        |                                |
+| extend-proto        | https://github.com/pillarjs/extend-proto         | https://www.npmjs.com/package/extend-proto        | 6                        |                                |
+| extend-proto        | https://github.com/pillarjs/extend-proto         | https://www.npmjs.com/package/extend-proto        | 6                        | Seems like we can deprecate it |
+| finalhandler        | https://github.com/pillarjs/finalhandler         | https://www.npmjs.com/package/finalhandler        | 1                        |                                |
+| hbs                 | https://github.com/pillarjs/hbs                  | https://www.npmjs.com/package/hbs                 | 6                        |                                |
+| multiparty          | https://github.com/pillarjs/multiparty           | https://www.npmjs.com/package/multiparty          | 5                        |                                |
+| node-frameworks     | https://github.com/pillarjs/node-frameworks      |                                                   | N/A                      | Documentation repo             |
+| parseurl            | https://github.com/pillarjs/parseurl             | https://www.npmjs.com/package/parseurl            | 3                        |                                |
+| path-match          | https://github.com/pillarjs/path-match           | https://www.npmjs.com/package/path-match          | 6                        |                                |
+| path-to-regexp      | https://github.com/pillarjs/path-to-regexp       | https://www.npmjs.com/package/path-to-regexp      | 1                        |                                |
+| pillarjs.github.io  | https://github.com/pillarjs/pillarjs.github.io   |                                                   | N/A                      | Documentation repo             |
+| qs-strict           | https://github.com/pillarjs/qs-strict            | https://www.npmjs.com/package/qs-strict           | 6                        | Seems like we can deprecate it |
+| request             | https://github.com/pillarjs/request              |                                                   | 6                        |                                |
+| resolve-path        | https://github.com/pillarjs/resolve-path         | https://www.npmjs.com/package/resolve-path        | 5                        |                                |
+| router              | https://github.com/pillarjs/router               | https://www.npmjs.com/package/router              | 5                        |                                |
+| routington          | https://github.com/pillarjs/routington           | https://www.npmjs.com/package/routington          | 6                        | Seems like we can deprecate it |
+| send                | https://github.com/pillarjs/send                 | https://www.npmjs.com/package/send                | 2                        |                                |
+| ssl-redirect        | https://github.com/pillarjs/ssl-redirect         | https://www.npmjs.com/package/ssl-redirect        | 6                        | Seems like we can deprecate it |
+| templation          | https://github.com/pillarjs/templation           | https://www.npmjs.com/package/templation          | 6                        | Seems like we can deprecate it |
+| understanding-csrf  | https://github.com/pillarjs/understanding-csrf   |                                                   | N/A                      | Documentation repo             |
+| views               | https://github.com/pillarjs/views                |                                                   | N/A                      | Empty repo                     |
