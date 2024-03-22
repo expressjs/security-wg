@@ -1,3 +1,90 @@
 {
-  "github.com": {}
+  "github.com": {
+    "expressjs": {
+      "included": [
+        "expressjs.com",
+        "express",
+        "connect-multiparty",
+        "cors",
+        "compression",
+        "routification",
+        "response-time",
+        "basic-auth-connect",
+        "vhostess",
+        "generator",
+        "multer",
+        "body-parser",
+        "serve-favicon",
+        "serve-index",
+        "cookie-parser",
+        "cookie-session",
+        "csurf",
+        "errorhandler",
+        "timeout",
+        "vhost",
+        "session",
+        "method-override",
+        "morgan",
+        "serve-static",
+        "express-paginate",
+        "mime-extended",
+        "set-type",
+        "api-error-handler",
+        "flash"
+      ],
+      "excluded": []
+    },
+    "pillarjs": {
+      "included": [
+        "path-match",
+        "parseurl",
+        "send",
+        "path-to-regexp",
+        "resolve-path",
+        "hbs",
+        "routington",
+        "cookies",
+        "multiparty",
+        "qs-strict",
+        "csrf",
+        "router",
+        "finalhandler",
+        "ssl-redirect",
+        "templation",
+        "encodeurl",
+        "extend-proto"
+      ],
+      "excluded": []
+    },
+    "jshttp": {
+      "included": [
+        "on-finished",
+        "accepts",
+        "negotiator",
+        "range-parser",
+        "basic-auth",
+        "methods",
+        "http-assert",
+        "cookie",
+        "fresh",
+        "compressible",
+        "on-headers",
+        "etag",
+        "statuses",
+        "type-is",
+        "vary",
+        "media-typer",
+        "proxy-addr",
+        "mime-types",
+        "content-type",
+        "content-disposition",
+        "http-errors",
+        "forwarded",
+        "spdy-push",
+        "http-push",
+        "mime-db"
+      ],
+      "excluded": []
+    }
+  }
 }
