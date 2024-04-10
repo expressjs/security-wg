@@ -7,7 +7,7 @@ The Security Working Group manages all aspects and processes linked to the Expre
 ### Responsibilities
 
 - Define the Security triage role
-- Define and maintain security policies and procedures for the project and the packages in scope (see [this table for scope details](https://github.com/expressjs/security-wg/blob/main/tools/scope/packages-in-scope.md))
+- Define and maintain security policies and procedures for the project and the packages in scope (see [this table for scope details](https://github.com/expressjs/security-wg/blob/main/docs/packages-in-scope.md))
 - Provide guidance to the ecosystem on how to build more secure middleware
 - Review and recommend processes for handling of security reports.
 - Promote improvement of security practices within the Express project's ecosystem (For example: [OSSF Scorecard](https://github.com/expressjs/discussions/issues/162), threat model, etc..)
