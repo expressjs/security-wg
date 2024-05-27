@@ -91,7 +91,6 @@
 | discussions         | https://github.com/pillarjs/discussions          |                                                   | N/A                      |
 | encodeurl           | https://github.com/pillarjs/encodeurl            | https://www.npmjs.com/package/encodeurl           | 2                        |
 | extend-proto        | https://github.com/pillarjs/extend-proto         | https://www.npmjs.com/package/extend-proto        | 6                        |
-| extend-proto        | https://github.com/pillarjs/extend-proto         | https://www.npmjs.com/package/extend-proto        | 6                        |
 | finalhandler        | https://github.com/pillarjs/finalhandler         | https://www.npmjs.com/package/finalhandler        | 1                        |
 | hbs                 | https://github.com/pillarjs/hbs                  | https://www.npmjs.com/package/hbs                 | 6                        |
 | multiparty          | https://github.com/pillarjs/multiparty           | https://www.npmjs.com/package/multiparty          | 5                        |
