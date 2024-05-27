@@ -7,10 +7,8 @@
         "connect-multiparty",
         "cors",
         "compression",
-        "routification",
         "response-time",
         "basic-auth-connect",
-        "vhostess",
         "generator",
         "multer",
         "body-parser",
@@ -25,14 +23,21 @@
         "session",
         "method-override",
         "morgan",
-        "serve-static",
-        "express-paginate",
-        "mime-extended",
-        "set-type",
-        "api-error-handler",
-        "flash"
+        "serve-static"
       ],
-      "excluded": []
+      "excluded": [
+        "api-error-handler",
+        "connect-markdown",
+        "domain-middleware",
+        "express-expose",
+        "express-paginate",
+        "flash",
+        "mime-extended",
+        "restful-router",
+        "routification",
+        "set-type",
+        "vhostess"
+      ]
     },
     "pillarjs": {
       "included": [
@@ -45,16 +50,18 @@
         "routington",
         "cookies",
         "multiparty",
-        "qs-strict",
         "csrf",
         "router",
         "finalhandler",
-        "ssl-redirect",
-        "templation",
-        "encodeurl",
-        "extend-proto"
+        "encodeurl"
       ],
-      "excluded": []
+      "excluded": [
+        "extend-proto",
+        "qs-strict",
+        "request",
+        "ssl-redirect",
+        "templation"
+      ]
     },
     "jshttp": {
       "included": [
