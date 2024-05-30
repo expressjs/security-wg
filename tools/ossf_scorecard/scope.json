@@ -87,11 +87,13 @@
         "content-disposition",
         "http-errors",
         "forwarded",
-        "spdy-push",
         "http-push",
         "mime-db"
       ],
-      "excluded": []
+      "excluded": [
+        "http-utils",
+        "spdy-push"
+      ]
     }
   }
 }
