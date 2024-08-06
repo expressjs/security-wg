@@ -35,6 +35,7 @@ The Security Working Group is composed of two groups of members: the Security Tr
 - [Adam Ruddermann](https://github.com/ruddermann)
 - [Carlos Serrano](https://github.com/carpasse)
 - [Chris de Almeida](https://github.com/ctcpip)
+- [Íñigo Marquínez Prado](https://github.com/inigomarquinez)
 - [Jean Burellier](https://github.com/sheplu)
 - [Jon Church](https://github.com/jonchurch)
 - [Marco Ippolito](https://github.com/marco-ippolito)
