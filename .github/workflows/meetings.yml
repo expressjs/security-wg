@@ -1,0 +1,25 @@
+name: Schedule Meetings
+on:
+  pull_request:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: '0 0 * * *'
+jobs:
+  meeting:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Security Working Session
+        uses: 'pkgjs/meet@v0'
+        with:
+          issueTitle: '<%= date.toFormat("yyyy-MM-dd") %> Express Security Session'
+          token: ${{ secrets.GITHUB_TOKEN }}
+          orgs: expressjs,pillarjs,jshttp
+          agendaLabel: 'security-wg-agenda'
+          meetingLabels: 'meeting'
+            # https://github.com/expressjs/security-wg/issues/28#issuecomment-2399781618
+            # Starting on 2024-10-21 at 5:30pm UTC (2024-10-21T17:30:00.0Z) with a period of 4 weeks (P4W)
+          schedules: '2024-10-21T17:30:00.0Z/P4W'
+          createWithin: 'P1W'
+          issueTemplate: 'meeting.md'
