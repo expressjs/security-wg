@@ -4,6 +4,7 @@
       "included": [
         "expressjs.com",
         "express",
+        "codemod",
         "connect-multiparty",
         "cors",
         "compression",
