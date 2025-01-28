@@ -51,6 +51,7 @@ The Security Working Group is composed of two groups of members: the Security Tr
 - [Jean Burellier](https://github.com/sheplu)
 - [Marco Ippolito](https://github.com/marco-ippolito)
 - [Rafael Gonzaga](https://github.com/RafaelGSS)
+- [Sebastian Beltran](https://github.com/bjohansebas)
 - [Ulises Gascón](https://github.com/UlisesGascon)
 - [Wes Todd](https://github.com/wesleytodd)
 
