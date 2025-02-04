@@ -2,7 +2,9 @@
 
 ## Charter
 
-The Security Working Group manages all aspects and processes linked to the Express Project's security, and is responsible for managing incoming security reports, and responsible also to prepare patches or releases. The nature of this task is sensitive, so only the Security triage team, Repo Captains and TC members will be involved in it.
+The Security Working Group manages all aspects and processes linked to the Express Project's security.
+
+The Security Triage Team is responsible for managing incoming security reports, to prepare security patches/releases, and to coordinate vulnerability disclosures. The nature of this task is sensitive, so only the Security Triage Team, TC members, and (impacted) Repo Captains are involved in the process.
 
 ### Responsibilities
 
@@ -18,13 +20,10 @@ The Security Working Group manages all aspects and processes linked to the Expre
 
 ## Current Initiatives
 
-We are currently defining the Initiatives for 2024, [feel free to participate](https://github.com/expressjs/security-wg/issues/1).
-
 | Initiative | Champion | Status | Links |
 |------------|----------|--------|-------|
 | OSSF Scorecard | [@inigomarquinez](https://github.com/inigomarquinez) | In progress | [#2](https://github.com/expressjs/security-wg/issues/2)|
 | Threat Model | _TBC_ | In progress | [#3](https://github.com/expressjs/security-wg/issues/3) |
-| Support OSTIF Audit | [@UlisesGascon](https://github.com/ulisesgascon) | In progress | [#6](https://github.com/expressjs/security-wg/issues/6)
 
 ## Members
 
@@ -32,7 +31,6 @@ The Security Working Group is composed of two groups of members: the Security Tr
 
 ### Security Triage Team
 
-- [Adam Ruddermann](https://github.com/ruddermann)
 - [Carlos Serrano](https://github.com/carpasse)
 - [Chris de Almeida](https://github.com/ctcpip)
 - [Íñigo Marquínez Prado](https://github.com/inigomarquinez)
@@ -44,11 +42,12 @@ The Security Working Group is composed of two groups of members: the Security Tr
 - [Wes Todd](https://github.com/wesleytodd)
 
 ### Team Members
-- [Adam Ruddermann](https://github.com/ruddermann)
+
 - [Carlos Serrano](https://github.com/carpasse)
 - [Chris de Almeida](https://github.com/ctcpip)
 - [Íñigo Marquínez Prado](https://github.com/inigomarquinez)
 - [Jean Burellier](https://github.com/sheplu)
+- [Jon Church](https://github.com/jonchurch)
 - [Marco Ippolito](https://github.com/marco-ippolito)
 - [Rafael Gonzaga](https://github.com/RafaelGSS)
 - [Ulises Gascón](https://github.com/UlisesGascon)
@@ -56,11 +55,13 @@ The Security Working Group is composed of two groups of members: the Security Tr
 
 ## Meetings
 
-The Security Working Group meets every two weeks. Meetings are held on Zoom and are recorded or directly streamed to Youtube. The meeting is open to the public. The agenda and meeting notes are published in this repository. The calendar entries are available in the [OpenJS Foundation calendar](https://openjsf.org/collaboration).
+<!-- The Security Working Group meets every two weeks. Meetings are held on Zoom and are recorded or directly streamed to Youtube. -->
+
+The Security Working Group meets on an ad hoc basis. The meeting is open to the public. The agenda and meeting notes are published in this repository. You can find the calendar entries in the [OpenJS Foundation calendar](https://openjsf.org/collaboration).
 
 ## Offline Discussions
 
-The Security Working Group uses the [GitHub issues](https://github.com/expressjs/security-wg/issues) for offline discussions. The discussions are open to the public and anyone can participate. Also, the group uses the channel `#express-security-wg` in the [OpenJS Foundation Slack](https://openjsf.org/collaboration) for real-time discussions.
+The Security Working Group uses [GitHub issues](https://github.com/expressjs/security-wg/issues) for offline discussion. The discussions are open to the public and anyone may participate. Also, the group uses the channel `#express-security-wg` in the [OpenJS Foundation Slack](https://openjsf.org/collaboration) for realtime discussions.
 
 ## Code of Conduct
 
