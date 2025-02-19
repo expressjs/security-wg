@@ -19,7 +19,7 @@ jobs:
           agendaLabel: 'security-wg-agenda'
           meetingLabels: 'meeting'
             # https://github.com/expressjs/security-wg/issues/28#issuecomment-2399781618
-            # Starting on 2024-10-21 at 5:30pm UTC (2024-10-21T17:30:00.0Z) with a period of 4 weeks (P4W)
-          schedules: '2024-10-21T17:30:00.0Z/P4W'
+            # Starting on 2024-10-21 at 4:30pm UTC (2024-10-21T16:30:00.0Z) with a period of 4 weeks (P4W)
+          schedules: '2025-02-17T16:30:00.0Z/P4W'
           createWithin: 'P1W'
           issueTemplate: 'meeting.md'
