@@ -54,3 +54,55 @@ flowchart TD
     Z1 --> Z2[Official Blog Post]
     Z1 --> Z3[Social Media Announcements]
 ```
+
+## Roles & Responsibilities
+
+### Reporter
+
+This person submits a security report to the Security Triage Team and provides detailed information about the suspected vulnerability. It is expected that the reporter will cooperate with the Security Triage Team during this process and follows responsible disclosure guidelines.
+
+**Responsibilities**
+- Submit a security report to the Security Triage Team.
+
+**Expectations**
+- Provide detailed information about the suspected vulnerability.
+- Follow responsible disclosure guidelines (report privately before public disclosure).
+- Cooperate with the security team by providing additional details when needed.
+- Test and verify patches (when applicable).
+- Respect security timelines and avoid premature public disclosure.
+
+### Security Report Coordinator
+
+
+This person acts the focal point for an specific security report and ensures the report follows all responsible disclosure guidelines, also coordinates the remediation process if a vulnerability is confirmed.
+
+**Responsibilities**
+- Acknowledge receipt of security reports within the required timeframe.
+- Assign an Analyst to assess and validate the report.
+- Ensure communication with the reporter throughout the process.
+- Coordinate the remediation process if a vulnerability is confirmed.
+- Oversee the advisory & CVE request process if applicable.
+- Escalate critical vulnerabilities when necessary.
+- Track all security reports for visibility and reporting.
+
+**Requirements**
+- Must be a member of the Security Triage Team.
+
+
+### Security Analyst
+
+**Responsibilities**
+- Assess the security report and determine its severity.
+- Validate the reported vulnerability against best practices.
+- Identify potential mitigation strategies.
+- Prepare a report for the Security Report Coordinator.
+
+
+### Remediation Developer
+
+**Responsibilities**
+- Develop a patch or solution based on the reported vulnerability.
+- Ensure the patch follows best practices and is testable.
+- Test the patch to ensure it works as expected.
+- Create a pull request to merge the patch into the project.
+
