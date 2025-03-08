@@ -150,13 +150,18 @@ Ideally, the report must contain **clear and detailed information** like (Affect
 ### Step 3: Patch and release
 
 3.1 The security triage team will determine if this vulnerability will be patched and work on it. In case that the vulnerability won't be patched jump to step 4.
+
 3.2 The mitigation team (remediation developer(s), analyst(s), reporter(s)) will work on the patch(es), re-evaluate the report once the patch is ready and include regression tests (when possible).
+
 3.3 The Express TC will announce publicly (social media and public issues) that there is security path available and the plan to do a release with an specific date (ideally) and the versions affected without providing additional information to prevent early disclosure.
+
 3.4 The security triage, along with the repo captain(s) and the TC team, will create the releases and publish them to npm. In some cases one vulnerability can affect multiple packages requiring several coordinated releases.
 
 
 ### Step 4: Public disclosure
 
 4.1 At this stage the Security Report Coordinator (SRC) will make the advisory public and close the coordination issue (opened in step 1).
+
 4.2 The Security Report Coordinator (SRC) will also help to publish a blog post about the vulnerability and the patch (if applicable, example [September 2024 Security Releases](https://expressjs.com/2024/09/29/security-releases.html)).
+
 4.3 The TC team will do social media announcements about the vulnerability and the patch (if applicable, example [Tweet post](https://x.com/UseExpressJS/status/1772300472730198037)).
