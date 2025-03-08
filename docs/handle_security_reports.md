@@ -136,7 +136,8 @@ Ideally, the report must contain **clear and detailed information** like (Affect
 
 1.3 At this stage the Security Report Coordinator (SRC) will create a (private) issue in [expressjs/security-triage](https://github.com/expressjs/security-triage) repository with the existing information from the security report (example: [expressjs/security-triage#14](https://github.com/expressjs/security-triage/issues/14)) unless it already exists (step 1.2.1). This issue will serve as the central discussion point for this particular report. At this stage is expected from the Security Report Coordinator (SRC) to acknowledge receipt of the security report to the reporter.
 
-Note: It is expected that the issue will be assigned to the Security Report Coordinator (SRC) and will remain open until the end of the process.
+> [!Note]
+> It is expected that the issue will be assigned to the Security Report Coordinator (SRC) and will remain open until the end of the process.
 
 ### Step 2: Review the Report and determine its severity
 
