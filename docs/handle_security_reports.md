@@ -129,7 +129,7 @@ Ideally, the report must contain **clear and detailed information** like (Affect
     * [Open a ticket with GitHub](https://support.github.com/contact) to delete the pull request using Expressjs (team) as the account organization.
     * Open a new issue in the public repository with the title `FYI - pull request deleted #YYYY`. Include an explanation for the user:
         > FYI @xxxx we asked GitHub to delete your pull request while we work on releases in private.
-    * Update the the team in the slack channel #express-security-triage`.
+    * Update the team in the slack channel #express-security-triage`.
 
 1.2.2 In the case that the report is made public in a different channel that we don't own/control is expected from the TC to find ways (when possible) to mitigate this by treying to remove the report from public view (reporting to support, asking the reporter to remove the report, etc...).
 
