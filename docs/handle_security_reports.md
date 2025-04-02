@@ -71,7 +71,7 @@ This person submits a security report to the Security Triage Team and provides d
 - Test and verify patches (when applicable).
 - Respect security timelines and avoid premature public disclosure.
 
-### Security Report Coordinator (SRC)
+### Coordinator
 
 
 This person acts the focal point for an specific security report and ensures the report follows all responsible disclosure guidelines, also coordinates the remediation process if a vulnerability is confirmed. The SRC ensures that the security report follows the process and coordinates necessary actions, but does not perform analysis, remediation, or patching themselves.
