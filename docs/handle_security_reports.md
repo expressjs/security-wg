@@ -124,7 +124,7 @@ Ideally, the report must contain **clear and detailed information** like (Affect
 
 1.2 If the report was created accidentally or intentionally in a public channel (e.g. GitHub issues), it is important to share this information asap in the private slack channel `#express-security-triage` so the Security triage team is aware of it. At this stage, our priority is to remove the report from public view as soon as possible and let the reporter know what happened next.
 
-1.2.1 In the case of a report made public in a Pull request or issue under the Express organizations ownership the following process will be followed (by a Express TC member - due permissions level):
+1.2.1 In the case of a report made public in a Pull request or issue under the Express organizations ownership the following process will be followed (by an Express TC member):
 
     * Move the issue to the private repository called [expressjs/security-triage](https://github.com/expressjs/security-triage).
     * For any related pull requests, create an associated issue in [expressjs/security-triage](https://github.com/expressjs/security-triage) repository.  Add a copy of the patch for the pull request to the issue. Add screenshots of discussion from the pull request to the issue.
