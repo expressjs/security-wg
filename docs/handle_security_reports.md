@@ -92,7 +92,8 @@ This person acts the focal point for an specific security report and ensures the
 ### Analyst
 
 **Responsibilities**
-- Validating proof-of-concept exploits
+- Determine if the reported issue is a real vulnerability, and is in within the scope of our [threat model](https://github.com/expressjs/security-wg/blob/main/docs/ThreatModel.md)
+- Validate proof-of-concept exploits
 - Assess the security report and determine its severity (assist in CVSS).
 - Validate the reported vulnerability against best practices.
 - Identify potential mitigation strategies.
