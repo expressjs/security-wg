@@ -89,7 +89,7 @@ This person acts the focal point for an specific security report and ensures the
 - Must be a member of the Security Triage Team.
 
 
-### Security Analyst
+### Analyst
 
 **Responsibilities**
 - Validating proof-of-concept exploits
