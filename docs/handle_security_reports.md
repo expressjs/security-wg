@@ -116,7 +116,7 @@ The following sections outline the **step-by-step process**, explaining each dec
 
 A security vulnerability report is received via [official channels](https://github.com/expressjs/.github/blob/master/SECURITY.md#reporting-a-bug) or otherwise (i.e. via third-party advisory services, blog post, social media, etc.).
 
-Ideally, the report must contain **clear and detailed information** like (Affected versions, steps to reproduce, expected vs. actual behavior, potential impact...) but this might not be the case depending on the communication channel used. Later on we will try to collect this information and refine the report.
+Ideally, the report must contain **clear and detailed information** like (Affected versions, a small PoC/sample project demonstrating the issue, steps to reproduce, expected vs. actual behavior, potential impact...) but this might not be the case depending on the communication channel used. Later on we will try to collect this information and refine the report.
 
 ### Step 1: Assign Security Report Coordinator (SRC) and consolidate the report
 
