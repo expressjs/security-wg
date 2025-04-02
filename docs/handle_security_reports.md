@@ -4,7 +4,7 @@
 **Maintainers:** Security Triage Team  
 
 ## Introduction
-Security is a top priority for the Express.js project. This document outlines the **formal process** for handling **security reports**, including how to **triage**, **assess**, and **disclose** vulnerabilities responsibly.
+Security is a top priority for the Express project. This document outlines the **formal process** for handling **security reports**, including how to **triage**, **assess**, and **disclose** vulnerabilities responsibly.
 
 ## Scope
 
