@@ -104,6 +104,7 @@ This person acts the focal point for an specific security report and ensures the
 **Responsibilities**
 - Develop a patch or solution based on the reported vulnerability.
 - Ensure the patch follows best practices and is testable.
+- Add test(s) to the existing test suite to confirm the vulnerability (pre-patch) and confirm the fix (post-patch).
 - Test the patch to ensure it works as expected.
 - Create a pull request to merge the patch into the project.
 
