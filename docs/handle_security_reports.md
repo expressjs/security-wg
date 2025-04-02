@@ -78,6 +78,8 @@ This person acts the focal point for an specific security report and ensures the
 
 **Responsibilities**
 - Acknowledge receipt of security reports within the required timeframe.
+- Orchestrate the embargo and identify the minimum set of individuals involved.
+  - Remind everyone involved that they must not notify/involve any other individuals. If someone else needs to be involved, that must go through the Coordinator.
 - Assign an Analyst to assess and validate the report.
 - Ensure communication with the reporter throughout the process.
 - Coordinate the remediation process if a vulnerability is confirmed.
