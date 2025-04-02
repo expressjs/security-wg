@@ -96,7 +96,7 @@ This person acts the focal point for an specific security report and ensures the
 - Validate proof-of-concept exploits
 - Assess the security report and determine its severity (assist in CVSS).
 - Validate the reported vulnerability against best practices.
-- Identify potential mitigation strategies.
+- Identify potential mitigation strategies and workarounds.
 - Prepare a report for the Security Report Coordinator.
 
 ### Remediation Developer
