@@ -122,7 +122,7 @@ Ideally, the report must contain **clear and detailed information** like (Affect
 
 1.1 One person from the Security Triage Team will volunteer and self-assign to oversee the case. It is expected that the person will remain assigned until the end of the process, so they effectively take the rol of [the Security Report Coordinator (SRC)](#security-report-coordinator-src).
 
-1.2 If the report was created accidentally or intentionally in a public channel (e.g. GitHub issues), it is important to share this information asap in the private slack channel `#express-security-triage` so the Security triage team is aware of it. At this stage, our priority is to remove the report from public view as soon as possible and let the reporter know what happened next.
+1.2 If the report was created accidentally or intentionally in a public channel (e.g. GitHub issues), it is important to share this information ASAP in the private slack channel `#express-security-triage` so the Security triage team is aware of it. At this stage, our priority is to remove the report from public view as soon as possible and let the reporter know what happened next.
 
 1.2.1 In the case of a report made public in a Pull request or issue under the Express organizations ownership the following process will be followed (by an Express TC member):
 
