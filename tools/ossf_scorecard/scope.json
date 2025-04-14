@@ -23,7 +23,8 @@
         "session",
         "method-override",
         "morgan",
-        "serve-static"
+        "serve-static",
+        "codemod"
       ],
       "excluded": [
         "api-error-handler",
