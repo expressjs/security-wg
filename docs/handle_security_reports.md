@@ -73,8 +73,7 @@ This person submits a security report to the Security Triage Team and provides d
 
 ### Coordinator
 
-
-This person acts the focal point for an specific security report and ensures the report follows all responsible disclosure guidelines, also coordinates the remediation process if a vulnerability is confirmed. The SRC ensures that the security report follows the process and coordinates necessary actions, but does not perform analysis, remediation, or patching themselves.
+This person acts as the focal point for a specific security report and ensures the report follows all responsible disclosure guidelines. The SRC coordinates the remediation process if a vulnerability is confirmed and ensures that the security report follows the process and necessary actions are taken. While the SRC is not necessarily responsible for performing analysis, remediation, or patching, they may take on these tasks if they also hold the role of Analyst or Remediation Developer.
 
 **Responsibilities**
 - Acknowledge receipt of security reports within the required timeframe.
