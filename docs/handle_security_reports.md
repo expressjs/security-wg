@@ -57,9 +57,21 @@ flowchart TD
 
 ## Roles & Responsibilities
 
+### Finder
+
+This person identifies a potential security vulnerability in the project. The Finder may or may not be the same person as the Reporter. If the Finder is not the Reporter, they may share the details with someone else who submits the report to the Security Triage Team.
+
+**Responsibilities**
+- Identify potential security vulnerabilities in the project.
+- Share sufficient details about the vulnerability with the Reporter or directly with the Security Triage Team.
+
+**Expectations**
+- Follow responsible disclosure guidelines by ensuring the vulnerability is reported privately before public disclosure.
+- Provide clear and accurate information about the vulnerability to facilitate the reporting process.
+
 ### Reporter
 
-This person submits a security report to the Security Triage Team and provides detailed information about the suspected vulnerability. It is expected that the reporter will cooperate with the Security Triage Team during this process and follows responsible disclosure guidelines.
+This person submits a security report to the Security Triage Team and provides detailed information about the suspected vulnerability. It is expected that the Reporter will cooperate with the Security Triage Team during this process and follow responsible disclosure guidelines.
 
 **Responsibilities**
 - Submit a security report to the Security Triage Team.
