@@ -129,8 +129,11 @@ Ideally, the report must contain **clear and detailed information** like (Affect
 1.2.1 In the case of a report made public in a Pull request or issue under the Express organizations ownership the following process will be followed (by an Express TC member):
 
     * Move the issue to the private repository called [expressjs/security-triage](https://github.com/expressjs/security-triage).
-    * For any related pull requests, create an associated issue in [expressjs/security-triage](https://github.com/expressjs/security-triage) repository.  Add a copy of the patch for the pull request to the issue. Add screenshots of discussion from the pull request to the issue.
+    * For any related pull requests, create an associated issue in [expressjs/security-triage](https://github.com/expressjs/security-triage) repository. Add a copy of the patch for the pull request to the issue. Add screenshots of discussion from the pull request to the issue.
     * [Open a ticket with GitHub](https://support.github.com/contact) to delete the pull request using Expressjs (team) as the account organization.
+    * Force-push to the PR branch to overwrite the code with a placeholder commit (if "allow edits by maintainers" is enabled). This ensures sensitive information is removed immediately.
+    * In the PR comments, notify the author about the force-push and explain the reason:
+        > FYI @xxxx, we force-pushed to your branch to remove sensitive information while we work on releases in private.
     * Open a new issue in the public repository with the title `FYI - pull request deleted #YYYY`. Include an explanation for the user:
         > FYI @xxxx we asked GitHub to delete your pull request while we work on releases in private.
     * Update the team in the slack channel #express-security-triage`.
