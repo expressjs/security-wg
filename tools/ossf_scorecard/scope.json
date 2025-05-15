@@ -4,7 +4,6 @@
       "included": [
         "expressjs.com",
         "express",
-        "connect-multiparty",
         "cors",
         "compression",
         "response-time",
@@ -16,7 +15,6 @@
         "serve-index",
         "cookie-parser",
         "cookie-session",
-        "csurf",
         "errorhandler",
         "timeout",
         "vhost",
@@ -29,26 +27,31 @@
       "excluded": [
         "api-error-handler",
         "connect-markdown",
+        "connect-multiparty",
+        "connect-rid",
+        "csurf",
+        "badgeboard",
         "domain-middleware",
         "express-expose",
+        "express-namespace",
         "express-paginate",
+        "expressjs.github.io",
         "flash",
         "mime-extended",
         "restful-router",
         "routification",
         "set-type",
-        "vhostess"
+        "vhostess",
+        "urlrouter"
       ]
     },
     "pillarjs": {
       "included": [
-        "path-match",
         "parseurl",
         "send",
         "path-to-regexp",
         "resolve-path",
         "hbs",
-        "routington",
         "cookies",
         "multiparty",
         "csrf",
@@ -57,6 +60,12 @@
         "encodeurl"
       ],
       "excluded": [
+        "discussions",
+        "node-frameworks",
+        "pillarjs.github.io",
+        "path-match",
+        "routington",
+        "views",
         "extend-proto",
         "qs-strict",
         "request",
@@ -88,11 +97,12 @@
         "content-disposition",
         "http-errors",
         "forwarded",
-        "http-push",
         "mime-db"
       ],
       "excluded": [
         "http-utils",
+        "http-push",
+        "jshttp.github.io",
         "spdy-push"
       ]
     }
