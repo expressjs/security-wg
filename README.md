@@ -29,7 +29,7 @@ The Security Triage Team is responsible for managing incoming security reports, 
 
 The Security Working Group is composed of two groups of members: the Security Triage Team and the Regular members. The regular members are responsible for the public facing activity of the group, while the Security Triage Team is responsible for the security triage process.
 
-### Security Triage Team
+### Security Triage Team @expressjs/security-triage
 
 - [Carlos Serrano](https://github.com/carpasse)
 - [Chris de Almeida](https://github.com/ctcpip)
@@ -42,7 +42,7 @@ The Security Working Group is composed of two groups of members: the Security Tr
 - [Ulises Gascón](https://github.com/UlisesGascon)
 - [Wes Todd](https://github.com/wesleytodd)
 
-### Team Members
+### Team Members @expressjs/security-wg
 
 - [Carlos Serrano](https://github.com/carpasse)
 - [Chris de Almeida](https://github.com/ctcpip)
@@ -53,7 +53,7 @@ The Security Working Group is composed of two groups of members: the Security Tr
 - [Marco Ippolito](https://github.com/marco-ippolito)
 - [Rafael Gonzaga](https://github.com/RafaelGSS)
 - [Sebastian Beltran](https://github.com/bjohansebas)
-- [Ulises Gascón](https://github.com/UlisesGascon)
+- [Ulises Gascón](https://github.com/UlisesGascon) (Captain @expressjs/security-wg-captains)
 - [Wes Todd](https://github.com/wesleytodd)
 
 ## Meetings
