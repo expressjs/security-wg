@@ -1,7 +1,9 @@
 name: OpenSSF Scorecard Monitor
 
 on: 
-  # TODO: replace by CRON trigger once a deccision is made
+  schedule:
+    # Runs on the first Sunday of each month at 00:00 UTC
+    - cron: '0 0 1-7 * 0'
   # Manual trigger
   workflow_dispatch:
 
