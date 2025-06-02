@@ -44,7 +44,7 @@ flowchart TD
 
 ## Automation Overview
 
-The [OpenSSF Scorecard Monitor](https://github.com/ossf/scorecard-monitor) GitHub Action is configured to run in the `security-wg` repository on a biweekly schedule ([ref](../.github/workflows/ossf-scorecard-reporting.yml)) (every Sunday at 00:00 UTC) and can also be triggered manually via the GitHub UI.
+The [OpenSSF Scorecard Monitor](https://github.com/ossf/scorecard-monitor) GitHub Action is configured to run in the `security-wg` repository on a monthly schedule ([ref](../.github/workflows/ossf-scorecard-reporting.yml)) (on the first Sunday of each month at 00:00 UTC) and can also be triggered manually via the GitHub UI.
 
 This workflow does not perform Scorecard scans directly. Instead, it collects and aggregates results from participating repositories within the Express.js GitHub organizations that proactively report their own Scorecard data to the OSSF Scorecard API.
 
@@ -83,7 +83,7 @@ The Security WG is responsible for reviewing the OSSF Scorecard reports and asse
 
 ### Step 0: Trigger & Report Generation
 
-The Scorecard job runs on a scheduled basis (every 2 weeks) or can be manually triggered. This generates:
+The Scorecard job runs on a scheduled basis (once a month) or can be manually triggered. This generates:
 
 - Updated results in `tools/ossf_scorecard`
 - A PR with the updated data
