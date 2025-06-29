@@ -1,4 +1,4 @@
-# Security Report Handling Process
+# Incident Response Plan
 **Version:** 1.0  
 **Last Updated:** March 2025  
 **Maintainers:** Security Triage Team  
