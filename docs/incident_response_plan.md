@@ -10,6 +10,16 @@ Security is a top priority for the Express project. This document outlines the *
 
 The Security Triage Team will use this document as a process guide when a security vulnerability is reported, from triage to resolution. This process must align with the project's [SECURITY policy](https://github.com/expressjs/.github/blob/master/SECURITY.md) and cannot diverge significantly.
 
+This process applies to all security reports, whether submitted via public channels, private disclosures, or through formal bounty platforms such as YesWeHack.
+
+
+## Bug Bounty Program
+
+The Express project participates in a paid bug bounty program funded by the [Sovereign Tech Resilience Program](https://www.sovereigntechfund.de/programs/bug-resilience) and hosted on YesWeHack.
+
+The goal of this program is to encourage responsible security research by providing financial rewards for qualifying vulnerability reports. Reports submitted through YesWeHack follow the same review and triage process as outlined in this Incident Response Plan.
+
+Program Link: [https://yeswehack.com/business-units/sovereign-tech-fund/programs/express-js-bug-bounty-program](https://yeswehack.com/business-units/sovereign-tech-fund/programs/express-js-bug-bounty-program)
 
 ## Security Report Handling Flowchart
 The following diagram details the **decision-making process** for handling security reports:
@@ -97,6 +107,7 @@ This person acts as the focal point for a specific security report and ensures t
 - Oversee the advisory & CVE request process if applicable.
 - Escalate critical vulnerabilities when necessary.
 - Track all security reports for visibility and reporting.
+- Handle communications and disputes on the YesWeHack platform (if needed)
 
 **Requirements**
 - Must be a member of the Security Triage Team.
@@ -120,6 +131,21 @@ This person acts as the focal point for a specific security report and ensures t
 - Add test(s) to the existing test suite to confirm the vulnerability (pre-patch) and confirm the fix (post-patch).
 - Test the patch to ensure it works as expected.
 - Create a pull request to merge the patch into the project.
+
+### Bounty Liaison
+
+This role is currently fulfilled by @wesleytodd and @UlisesGascon on behalf of the Express TC (Technical Committee).
+
+**Responsibilities**
+- Serve as the primary contact between the Express project and the YesWeHack triage team.
+- Coordinate with the Sovereign Tech Resilience program team on matters related to funding, compliance, and reporting.
+- Ensure bounty payouts are issued promptly and accurately for validated and accepted reports.
+- Facilitate internal discussions regarding reward tiers, scope changes, and platform feedback.
+- Maintain and update the YesWeHack program scope, documentation, and communication policies as needed.
+
+**Requirements**
+- Must be an active member of the Express Technical Committee (TC).
+
 
 ## Runbook
 
@@ -186,3 +212,8 @@ Ideally, the report must contain **clear and detailed information** like (Affect
 4.2 The Security Report Coordinator (SRC) will also help to publish a blog post about the vulnerability and the patch (if applicable, example [September 2024 Security Releases](https://expressjs.com/2024/09/29/security-releases.html)).
 
 4.3 The TC team will do social media announcements about the vulnerability and the patch (if applicable, example [Tweet post](https://x.com/UseExpressJS/status/1772300472730198037)).
+
+4.4 For reports originated in YesWeHack, the Security Report Coordinator must ensure that:
+- The advisory (if public) includes an optional credit line for the reporter, based on YesWeHack preferences.
+- The reward is processed per the bounty terms.
+- The report is marked as resolved and paid within the YesWeHack dashboard.
