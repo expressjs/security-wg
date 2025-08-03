@@ -3,7 +3,7 @@ name: OpenSSF Scorecard Monitor
 on: 
   schedule:
     # Runs on the first Sunday of each month at 00:00 UTC
-    - cron: '0 0 1 * 0'
+    - cron: '0 0 1 * *'
   # Manual trigger
   workflow_dispatch:
 
