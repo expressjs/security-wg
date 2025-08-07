@@ -85,7 +85,7 @@ Every valid report that helps us improve the security of the project is welcome,
 - The vulnerability must be previously undisclosed, both publicly and privately, and must not have been reported through any other channel ([security policy](https://github.com/expressjs/.github/blob/master/SECURITY.md)).
 - The issue must meet the qualifying criteria defined in the program’s scope and threat model.
 - The report must include a working reproducer (e.g., code, configuration, or sequence of steps) that demonstrates the issue clearly and reliably.
-- You must not be a current [Express.js TC (Technical Committee) member](https://github.com/expressjs/express#tc-technical-committee) or an active contributor listed in the project governance documents ([reference](https://github.com/expressjs/discussions/blob/master/docs/contributing/captains_and_committers.md)).
+- You must not be a current [Express.js TC (Technical Committee) member](https://github.com/expressjs/express#tc-technical-committee), an active contributor listed in the project governance documents ([reference](https://github.com/expressjs/discussions/blob/master/docs/contributing/captains_and_committers.md)), or affiliated with any team listed in the Security WG ([ref](https://github.com/expressjs/security-wg#members)).
 - Severity is assessed based on the maximum impact demonstrated by your proof of concept (PoC), not on hypothetical impact.
 - Only issues affecting released npm packages are eligible. Vulnerabilities found in unreleased code, git branches, or forks are not eligible for rewards.
 - **Your report must contain all the mandatory parts of the report submission template proposed on this program**
