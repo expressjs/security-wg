@@ -20,7 +20,7 @@ It is used internally to track changes and coordinate updates.
 
 
 ### Out-Of-Scope
-- Anything related to https://express.com is out of scope.
+- Anything related to https://expressjs.com is out of scope.
 - npm packages that are not explicitly listed in the scope of the program are not accepted.
 
 
