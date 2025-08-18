@@ -16,8 +16,6 @@ It is used internally to track changes and coordinate updates.
 | Other |  npm: body-parser | high |
 | Other |  npm: path-to-regexp | high |
 | Other |  npm: cookie | high |
-| Other |  npm: http-errors | high |
-| Other |  npm: on-finished | high |
 | Other |  npm: multer | high |
 
 
