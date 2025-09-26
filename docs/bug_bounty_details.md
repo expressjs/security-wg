@@ -17,7 +17,8 @@ It is used internally to track changes and coordinate updates.
 | Other |  npm: path-to-regexp | high |
 | Other |  npm: cookie | high |
 | Other |  npm: multer | high |
-
+| Other |  npm: cors | high |
+| Other |  npm: iconv-lite | high |
 
 ### Out-Of-Scope
 - Anything related to https://expressjs.com is out of scope.
