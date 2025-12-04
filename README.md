@@ -38,6 +38,7 @@ The Security Working Group is composed of two groups of members: the Security Tr
 - [Jordan Harband](https://github.com/ljharb)
 - [Jon Church](https://github.com/jonchurch)
 - [Marco Ippolito](https://github.com/marco-ippolito)
+- [Phillip Barta](https://github.com/Phillip9587)
 - [Rafael Gonzaga](https://github.com/RafaelGSS)
 - [Sebastian Beltran](https://github.com/bjohansebas)
 - [Ulises Gascón](https://github.com/UlisesGascon)
