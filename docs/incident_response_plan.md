@@ -15,7 +15,7 @@ This process applies to all security reports, whether submitted via public chann
 
 ## Bug Bounty Program
 
-The Express project participates in a paid bug bounty program funded by the [Sovereign Tech Resilience Program](https://www.sovereigntechfund.de/programs/bug-resilience) and hosted on YesWeHack.
+The Express project participates in a paid bug bounty program funded by the [Sovereign Tech Resilience Program](https://www.sovereign.tech/programs/bug-resilience) and hosted on YesWeHack.
 
 The goal of this program is to encourage responsible security research by providing financial rewards for qualifying vulnerability reports. Reports submitted through YesWeHack follow the same review and triage process as outlined in this Incident Response Plan.
 

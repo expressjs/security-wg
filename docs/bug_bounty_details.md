@@ -88,7 +88,7 @@ Express.js is a fast, unopinionated, minimalist web framework for Node.js. It pr
 
 The scope of this program spans multiple npm packages maintained by the Express.js team across three GitHub organizations ([expressjs](https://github.com/expressjs), [pillarjs](https://github.com/pillarjs) and [jshttp](https://github.com/jshttp)). These repositories contain the core modules, middleware components, and foundational utilities that power the Express.js ecosystem. 
 
-This bug bounty program is paid for by the [Sovereign Tech Resilience program](https://www.sovereigntechfund.de/programs/bug-resilience).
+This bug bounty program is paid for by the [Sovereign Tech Resilience program](https://www.sovereign.tech/programs/bug-resilience).
 
 ## Scopes
 
