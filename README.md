@@ -22,8 +22,8 @@ The Security Triage Team is responsible for managing incoming security reports, 
 
 | Initiative | Champion | Status | Links |
 |------------|----------|--------|-------|
-| OSSF Scorecard | [@inigomarquinez](https://github.com/inigomarquinez) | In progress | [#2](https://github.com/expressjs/security-wg/issues/2)|
-| Threat Model | _TBC_ | In progress | [#3](https://github.com/expressjs/security-wg/issues/3) |
+| OSSF Scorecard | [@inigomarquinez](https://github.com/inigomarquinez) | Completed | [#2](https://github.com/expressjs/security-wg/issues/2)|
+| Threat Model | [@UlisesGascon](https://github.com/ulisesgascon) | Completed | [#3](https://github.com/expressjs/security-wg/issues/3) |
 
 ## Members
 
@@ -33,7 +33,6 @@ The Security Working Group is composed of two groups of members: the Security Tr
 
 - [Carlos Serrano](https://github.com/carpasse)
 - [Chris de Almeida](https://github.com/ctcpip)
-- [Íñigo Marquínez Prado](https://github.com/inigomarquinez)
 - [Jean Burellier](https://github.com/sheplu)
 - [Jordan Harband](https://github.com/ljharb)
 - [Jon Church](https://github.com/jonchurch)
@@ -43,6 +42,10 @@ The Security Working Group is composed of two groups of members: the Security Tr
 - [Sebastian Beltran](https://github.com/bjohansebas)
 - [Ulises Gascón](https://github.com/UlisesGascon)
 - [Wes Todd](https://github.com/wesleytodd)
+
+**Emeritus**
+- [Íñigo Marquínez Prado](https://github.com/inigomarquinez)
+
 
 ### Team Members @expressjs/security-wg
 
